@@ -17,7 +17,7 @@ product offers, filter them and go shopping for them.
 
 ### Backend
 
-- **Java** + **Fastify**
+- **Java** + **Springboot**
 - **H2 Database**
 - **Unit5 + Mockito** – unit and integration test framework
 
